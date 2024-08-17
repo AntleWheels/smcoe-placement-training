@@ -1,4 +1,4 @@
-//add the code
+Here is the code for the finding the Neon numbers
 #include <stdio.h>
 #include <stdlib.h>
 
